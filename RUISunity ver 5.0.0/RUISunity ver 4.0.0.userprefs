@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Add\Teleport.cs">
+    <Files>
+      <File FileName="..\Stealth\Assets\Done\DoneScripts\EnemyScripts\DoneEnemyAI.cs" Line="57" Column="3" />
+      <File FileName="Assets\Add\Teleport.cs" Line="44" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

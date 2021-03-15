@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shooting.cs">
+    <Files>
+      <File FileName="Assets\Shooting.cs" Line="60" Column="16" />
+      <File FileName="Assets\RUIS\Scripts\Input\Gestures\RUISFistGestureRecognizer.cs" Line="244" Column="4" />
+      <File FileName="..\Shooting Game Example\Assets\_CompletedAssets\Scripts\Player\PlayerShooting.cs" Line="81" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

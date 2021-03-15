@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RUIS\Scripts\Input\Gestures\RUISFistGestureRecognizer.cs">
+    <Files>
+      <File FileName="Assets\RUIS\Scripts\Input\Gestures\RUISFistGestureRecognizer.cs" Line="233" Column="4" />
+      <File FileName="Assets\Shooting.cs" Line="54" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
